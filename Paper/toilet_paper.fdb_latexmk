@@ -1,15 +1,16 @@
 # Fdb version 3
-["bibtex toilet_paper"] 1621862127 "toilet_paper.aux" "toilet_paper.bbl" "toilet_paper" 1621862132
+["bibtex toilet_paper"] 1621943616 "toilet_paper.aux" "toilet_paper.bbl" "toilet_paper" 1621943956
   "MyCollection.bib" 1621857324 708 8f7ad8885ebc2760d3d214daf751015d ""
   "c:/texlive/2019/texmf-dist/bibtex/bst/base/unsrt.bst" 1593674642 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "toilet_paper.aux" 1621862131 367 b92cfdc64aaeb9c3469c2311a6197b3e "pdflatex"
+  "toilet_paper.aux" 1621943916 1325 d5f3141cfcb6763a45da29a5eae4630c "pdflatex"
   (generated)
-  "toilet_paper.bbl"
   "toilet_paper.blg"
-["pdflatex"] 1621862128 "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.tex" "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.pdf" "toilet_paper" 1621862132
+  "toilet_paper.bbl"
+["pdflatex"] 1621943914 "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.tex" "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.pdf" "toilet_paper" 1621943956
   "Mnp-2roll.png" 1621862010 44626 601ceb02a1594e2437f630e8c2e73805 ""
-  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.aux" 1621862131 367 b92cfdc64aaeb9c3469c2311a6197b3e ""
-  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.tex" 1621862117 3320 87efa84423986f4c7b94737402b3f129 ""
+  "approxim-2roll.png" 1621928168 37268 5a37a89d515fc7398366eaaca2e7dbcc ""
+  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.aux" 1621943916 1325 d5f3141cfcb6763a45da29a5eae4630c ""
+  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.tex" 1621943954 7730 9883b47f8d953f90d119d783cfdcd9eb ""
   "c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1593679022 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1593673295 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1593673295 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -67,12 +68,13 @@
   "c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1593692700 3265705 1c47a36e1854fca80ccfb74d1dfbdde3 ""
   "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1593693134 4254430 603e17c6196e7da1eb1c8cb5226e1668 ""
   "c:/texlive/2019/texmf.cnf" 1593692621 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "toilet_paper.aux" 1621862131 367 b92cfdc64aaeb9c3469c2311a6197b3e "pdflatex"
-  "toilet_paper.bbl" 1621862128 336 213a4f5b48493553c32e62f3fbb8ce60 "bibtex toilet_paper"
-  "toilet_paper.tex" 1621862117 3320 87efa84423986f4c7b94737402b3f129 ""
+  "hist-2roll.png" 1621928248 21277 4f52c555036aae26e52027c0ecc9469f ""
+  "toilet_paper.aux" 1621943916 1325 d5f3141cfcb6763a45da29a5eae4630c "pdflatex"
+  "toilet_paper.bbl" 1621943618 336 213a4f5b48493553c32e62f3fbb8ce60 "bibtex toilet_paper"
+  "toilet_paper.tex" 1621943954 7730 9883b47f8d953f90d119d783cfdcd9eb ""
   (generated)
-  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.pdf"
   "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.log"
-  "toilet_paper.aux"
-  "toilet_paper.log"
   "toilet_paper.pdf"
+  "toilet_paper.log"
+  "toilet_paper.aux"
+  "c:/Users/lenovo/OneDrive/桌面/Statistics/Semester2-Final-Project/Paper/toilet_paper.pdf"
