@@ -18,5 +18,5 @@ Instruction for toilet_paper.ipynb:
 5. To perform function 4), run Cell 11 to 12 for an example
 6. To perform function 5), run Cell 13 to Cell 19
 
-Instruction for n-roll simulation.ipynb
+Instruction for n-roll simulation.ipynb:
 1.Run all cells
