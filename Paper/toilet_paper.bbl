@@ -1,13 +1,26 @@
 \begin{thebibliography}{1}
 
+\bibitem{Feller}
+William Feller.
+\newblock {\em An Introduction to Probability Theory and Its Applications}.
+\newblock Wiley, 1968.
+
 \bibitem{Knuth1984}
 Donald~E. Knuth.
 \newblock {The Toilet Paper Problem}.
 \newblock {\em The American Mathematical Monthly}, 91(8):465--470, oct 1984.
 
-\bibitem{Feller}
-William Feller.
-\newblock {\em An Introduction to Probability Theory and Its Applications}.
-\newblock Wiley, 1968.
+\bibitem{Freund}
+Irwin Miller and Marylees Miller.
+\newblock {\em John E. Freund's Mathematical Statistics with Application 7th
+  edition}.
+\newblock Pearson Education, 2004.
+
+\bibitem{bootstrap}
+Jeremy Orloff and Jonathan Bloom.
+\newblock Bootstrap confidence intervals.
+\newblock
+  \url{https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf}[Acccessed:
+  26 May 2021], Spring 2014. [Online].
 
 \end{thebibliography}
